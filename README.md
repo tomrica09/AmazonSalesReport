@@ -25,7 +25,7 @@ This structured data allows for comprehensive performance tracking and behaviora
 Amazon India's sales analysis from March to June 2022 reveals a total revenue of ₹78.59 million in 128,975 orders, with an average order value (AOV) of ₹609.36. Sales peaked in April at ₹28.84 million before gradually declining through June. While May recorded the highest AOV at ₹623.85, promotional campaigns played a key role in order volume, driving nearly 62% of total orders and contributing ₹53.59 million in revenue, which is over 68% of total sales. However, promotion efficiency slightly declined month-over-month, indicating potential saturation or diminishing returns. These insights suggest that while promotions significantly boost performance, refining targeting strategies and optimizing non-promotional channels can enhance revenue sustainability and customer engagement moving forward.
 ***
 ### Insights Deep-Dive
-
+*Interactive Power BI dashboard can be found and download [here.](./sales_dashboard.pbix)*
 #### Sales Performance
 - Amazon India's total revenue from March to June 2022 reached ₹78.59 million, with 128,975 total orders placed during this period.
 - April recorded the highest revenue at ₹28.84 million and the largest order volume of 49,067, establishing it as the peak sales month.
